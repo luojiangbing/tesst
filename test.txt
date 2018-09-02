@@ -2,3 +2,4 @@ hello word
 hello word2
 hello word3
 hello word --hot_fix
+hello word by hot_fix
